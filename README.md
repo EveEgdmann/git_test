@@ -1,0 +1,1 @@
+"This is Tripl3E's first Git project!"
